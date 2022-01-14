@@ -22,7 +22,7 @@ Once the models were completed and ran successfully, timeframes were adjusted to
 
 ![Sentiment Prediction Chart](Sent_Pred_Chart.PNG)
 
-![Closing Prediction Chart](Close_Pred_Chart.PNG)
+![Closing Prediction Chart](Close_Pred_Chart.png)
 
 ### Which window size works best for the models?
 
